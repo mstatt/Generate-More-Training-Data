@@ -62,6 +62,33 @@ create-grey-and-rotate-images.py
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br />
 
+
+
+
+
+<!-- Enhancements -->
+## Enhancements
+<p align="center">
+Below are some basic enhancements that could be done to make this better.
+</p>
+<ol>
+<li>Automation of the listing and moving of each of the images created from the video into the "OriginalImages" directory.</li>
+<li>Combine both scripts into a single fully functional version.</li>
+<li>And whatever else you can think of.</li>
+
+</ol>
+
+
+
+
+<br />
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br />
+
+
+
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
