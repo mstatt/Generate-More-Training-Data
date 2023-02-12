@@ -3,15 +3,9 @@
 <div id="top"></div>
 <div align="center">
   
-  
-
 ![](https://img.shields.io/badge/Language-Python-blue)
 
-
-
-  
 </div>
-
 
 
 <!-- PROJECT LOGO -->
@@ -42,12 +36,12 @@ Some basic scripts to extract each frame of a video and save it as an image. The
 ## Usage
 <br />
   <p>
-   To use the scripts for maximum value please foloow the steps below:
+   To use the scripts for maximum value please follow the steps below:
     <br />
 </p>
 
 1. Place the video file in the video directory. <br />(You can place numerous videos in the directory for sequential processing).<br />
-Understand that the images will be generated in a Directory names after the video file.<br /> Example: my_video.mp4 -> images/my_video/ 
+Understand that the images will be generated in a Directory named after the video file.<br /> Example: my_video.mp4 -> images/my_video/ 
 ```
 python split_videos_in_dir__into_images_and_rename.py
 ```
@@ -56,7 +50,7 @@ python split_videos_in_dir__into_images_and_rename.py
 python create-grey-and-rotate-images.py
 ```
 3. This will give you 1 X 16 count. For every 1 original image, 15 will be generated.
-4. This does not always have to be the process. 
+4. However, This does not always have to be the process. 
 5. If you already have images you would like to expand, just drop them in the "OriginalImages" directory and run the following:
 ```
 python create-grey-and-rotate-images.py
@@ -68,8 +62,6 @@ python split_videos_in_dir__into_images_and_rename.py
 <br />
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br />
-
-
 
 
 
