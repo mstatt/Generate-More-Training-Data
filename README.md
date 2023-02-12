@@ -56,11 +56,12 @@ python split_videos_in_dir__into_images_and_rename.py
 python create-grey-and-rotate-images.py
 ```
 3. This will give you 1 X 16 count. For every 1 original image, 15 will be generated.
-4. This does not always have to be the process. If you already have images tyou would like to expand, just drop them in the "OriginalImages" directory and run the following:
+4. This does not always have to be the process. 
+5. If you already have images you would like to expand, just drop them in the "OriginalImages" directory and run the following:
 ```
 python create-grey-and-rotate-images.py
 ```
-5. Similarly, if you just want to chop a video into each of its frames and dont want to generate extras just place your video in the "video" directory and run the following:
+6. Similarly, if you just want to chop a video into each of its frames and dont want to generate extras versions of each frame just place your video file in the "video" directory and run the following:
 ```
 python split_videos_in_dir__into_images_and_rename.py
 ```
